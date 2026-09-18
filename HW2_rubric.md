@@ -27,9 +27,9 @@ Total: 100%
 No partial credit per item. Each item must actually work — install the tool
 and confirm it functions as described.
 
-- [ /10%] Install **NGINX** and start it — confirm the welcome page loads at `http://localhost`
-- [ /10%] Register GitHub, create ASE230 repo, and push a file
-- [ /10%] Setup VSCode/Marp and export a PDF
+- [ 10/10%] Install **NGINX** and start it — confirm the welcome page loads at `http://localhost`
+- [ 10/10%] Register GitHub, create ASE230 repo, and push a file
+- [ 10/10%] Setup VSCode/Marp and export a PDF
 
 ---
 
@@ -38,7 +38,7 @@ and confirm it functions as described.
 | NGINX running                      | 10% | [ /10%] |
 | GitHub repo + push                 | 10% | [ /10%] |
 | Marp/VSCode + PDF                  | 10% | [ /10%] |
-| **Total**                          | **30%** | [ /30%] |
+| **Total**                          | **30%** | [ 30/30%] |
 
 ---
 
@@ -46,8 +46,8 @@ and confirm it functions as described.
 
 No partial credit
 
-- [ /10%] Read `project1_overview.md` and `project1_rubric.md` in Canvas/Project Submissions, and understand the requirements and expectations of Project 1.
-- [ /10%] Read the `submission_example/` materials and can explain what a complete submission looks like.
+- [ 10/10%] Read `project1_overview.md` and `project1_rubric.md` in Canvas/Project Submissions, and understand the requirements and expectations of Project 1.
+- [ 10/10%] Read the `submission_example/` materials and can explain what a complete submission looks like.
 
 ---
 
@@ -55,7 +55,7 @@ No partial credit
 |----------------------------------------------------|---:|---:|
 | Read project1 overview and rubric                  | 10% | [ /10%] |
 | Read submission_example materials                  | 10% | [ /10%] |
-| **Total**                                          | **20%** | [ /20%] |
+| **Total**                                          | **20%** | [ 20/20%] |
 
 ---
 
@@ -75,8 +75,8 @@ Project 1 as proof of when each endpoint was actually finished.
 
 | Task                                | % | Earned |
 |-------------------------------------|---:|---:|
-| 10 REST APIs, at least 2 Bearer token APIs | 20% | [ /20%] |
-| **Total**                           | **20%** | [ /20%] |
+| 10 REST APIs, at least 2 Bearer token APIs | 20% | [ 20/20%] |
+| **Total**                           | **20%** | [ 20/20%] |
 
 ---
 
@@ -92,19 +92,19 @@ No partial credit
 
 | Task                                      | % | Earned |
 |--------------------------------------------|---:|---:|
-| Canvas deadline and personal target date | 10% | [ /10%] |
-| Project milestones are clear             | 20% | [ /20%] |
-| **Total**                                 | **30%** | [ /30%] |
+| Canvas deadline and personal target date | 10% | [ 10/10%] |
+| Project milestones are clear             | 20% | [ 20/20%] |
+| **Total**                                 | **30%** | [ 30/30%] |
 
 ---
 
 ## Final Checks
 
-- [ ] I will ask any uncertainties, concerns, or questions to the professor if I have them.
-- [ ] I understand that poor quality work may lose credit.  
-- [ ] I selected at least 10 planned APIs and marked at least 2 Bearer-token APIs.
-- [ ] I can explain every submitted item and did not use vibe coding.
-- [ ] I confirm that I uploaded `HW2_rubric.md` and `plan.md` on Canvas.
+- [x] I will ask any uncertainties, concerns, or questions to the professor if I have them.
+- [x] I understand that poor quality work may lose credit.  
+- [x] I selected at least 10 planned APIs and marked at least 2 Bearer-token APIs.
+- [x] I can explain every submitted item and did not use vibe coding.
+- [x] I confirm that I uploaded `HW2_rubric.md` and `plan.md` on Canvas.
 
 ---
 
@@ -112,8 +112,8 @@ No partial credit
 
 | Task         | % | Earned |
 |--------------|---:|---:|
-| Assignment 1 | 30% | [ /30%] |
-| Assignment 2 | 20% | [ /20%] |
-| Assignment 3 | 20% | [ /20%] |
-| Assignment 4 | 30% | [ /30%] |
-| **Total**    | **100%** | [ /100%] |
+| Assignment 1 | 30% | [ 30/30%] |
+| Assignment 2 | 20% | [ 20/20%] |
+| Assignment 3 | 20% | [ 20/20%] |
+| Assignment 4 | 30% | [ 30/30%] |
+| **Total**    | **100%** | [ 100/100%] |
